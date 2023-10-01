@@ -1,6 +1,10 @@
 Hi there  <img src="https://raw.githubusercontent.com/RupertSymss/RupertSymss/main/icons/greetings.gif" width="30px">, I am Rupert Symss
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rupertsymss/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rupertsymss/)              [![Static Badge](https://img.shields.io/badge/Tableau-Public-Public?style=for-the-badge&logo=Tableau&labelColor=004B89&color=E97627)](https://public.tableau.com/app/profile/rupertsymss/)
+
+
+
+
 
 <!--
 **RupertSymss/RupertSymss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
